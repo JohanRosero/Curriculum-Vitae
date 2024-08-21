@@ -1,0 +1,45 @@
+.fondo {
+    background-image: url("images/webdesign.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.programer {
+    border-radius: 50%;
+    height: 30vh;
+    width: 30vh;
+    margin: auto;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-split {
+    background-color: #025159;
+    padding-left: 5px;
+}
+.right-split {
+    background-color: #BF9A78;    
+}
+
+.item-cv {
+    border-left: 5px solid #be4e25;  
+    text-align: start;
+}
+
+.item-cv-s {
+    border-left: 5px solid #8C452B;
+}
+
+.bg-body-tertiary {
+    background-color: #025159 !important;
+    margin-left: 0px !important;
+}
+
+.navbar{
+    padding-left: 0px !important;
+}
